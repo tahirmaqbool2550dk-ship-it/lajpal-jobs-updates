@@ -1,0 +1,6 @@
+{
+  "name": "LAJPAL - Jobs Updates & Online Apply Services",
+  "description": "Premier portal for latest jobs updates, official online application assistance, e-stamp, computer printing, and online citizen services in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
