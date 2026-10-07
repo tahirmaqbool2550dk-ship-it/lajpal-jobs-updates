@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lajpal-jobs-updates.vercel.app/sitemap.xml
